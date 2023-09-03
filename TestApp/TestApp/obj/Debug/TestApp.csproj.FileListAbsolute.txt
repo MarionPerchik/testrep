@@ -1,0 +1,7 @@
+C:\Users\slehb\OneDrive\Рабочий стол\testproject\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\slehb\OneDrive\Рабочий стол\testproject\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\slehb\OneDrive\Рабочий стол\testproject\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\slehb\OneDrive\Рабочий стол\testproject\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\slehb\OneDrive\Рабочий стол\testproject\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\slehb\OneDrive\Рабочий стол\testproject\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\slehb\OneDrive\Рабочий стол\testproject\TestApp\TestApp\obj\Debug\TestApp.pdb
